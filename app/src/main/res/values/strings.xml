@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ParkingSystem</string>
+    <string name="login">Log in</string>
+    <string name="log_in_to_your_account">Log in to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="username">Username</string>
+    <string name="car_number">Car number</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="loading">Loading…</string>
+    <string name="hello">Hello,</string>
+    <string name="log_out">Log out</string>
+    <string name="call_parking">Call Parking</string>
+    <string name="userinfo">userInfo</string>
+    <string name="securityPhoneNumber">tel:0882333213</string>
+    <string name="parkingSpace">Floor: %1$d / Space: %2$d</string>
+    <string name="book_for">Book for:</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">confirm</string>
+    <string name="confirm_reservation">Confirm reservation</string>
+    <string name="are_you_sure_you_want_to_reserve_for">Are you sure you want to reserve for %1$s?</string>
+    <string name="today_is">Today is: %1$s</string>
+    <string name="your_car_number">Car number: %1$s</string>
+    <string name="booked">Booked for:</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="cancel_reservation">Are you sure you want to cancel your reservation?</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175960829972",
+    "project_id": "parkingsystem-cf164",
+    "storage_bucket": "parkingsystem-cf164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175960829972:android:8ec013431dc7ab2d6c7701",
+        "android_client_info": {
+          "package_name": "com.example.parkingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Giqepw3wTieKOdtB-cZB9x-i6JVDflI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
